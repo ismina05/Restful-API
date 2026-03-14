@@ -1,0 +1,21 @@
+{
+  "name": "rest-collection-json-demo",
+  "version": "1.0.0",
+  "description": "Demo REST API menggunakan standar Hypermedia Collection+JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "collection+json",
+    "hypermedia",
+    "express"
+  ],
+  "author": "Ismi Nuraini Azizah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
