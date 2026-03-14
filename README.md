@@ -6,14 +6,13 @@ API ini dibuat untuk menampilkan data mata kuliah serta menyediakan link hyperme
 
 Project ini dibuat sebagai bagian dari tugas praktikum Standarisasi API.
 
-Teknologi yang Digunakan
+**Teknologi yang Digunakan**
 1. Node.js
 2. Express.js
 3. JSON
 4. Hypermedia Format: Collection+JSON
 
-Struktur Project
-
+**Struktur Project**
 Berikut struktur file pada project ini:
 Restful-API
 │
@@ -23,14 +22,14 @@ Restful-API
 ├── package-lock.json
 └── README.md
 
-Penjelasan file:
+**Penjelasan file:**
 - data.js : berisi data mata kuliah yang digunakan oleh API.
 - server.js : file utama yang menjalankan server API dan mengatur endpoint.
 - package.json : berisi konfigurasi project dan dependency yang digunakan.
 - package-lock.json : file otomatis dari npm untuk mengunci versi dependency.
 - README.md : dokumentasi project.
 
-Cara Menjalankan Project
+**Cara Menjalankan Project**
 1. Clone Repository : git clone https://github.com/ismina05/Restful-API.git
 2. Masuk ke Folder Project : cd Restful-API
 3. Install Dependency : npm install
